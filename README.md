@@ -1,1 +1,1 @@
-# Python-for-Data-Science
+# Applied Data Science with Python
