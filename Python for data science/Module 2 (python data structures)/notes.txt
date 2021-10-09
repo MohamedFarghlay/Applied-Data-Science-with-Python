@@ -1,0 +1,22 @@
+- Tuples:
+t = ()
+can contain any data in one tuple
+it's immutable -> cannot change them
+
+- Lists:
+l = []
+lists like tuple expect it's a mmutable -> can change them
+
+- Sets:
+s = {  }
+set is like tuples and list it's can contain different python types
+unlike lists and tuple sets are unordered
+sets only have unique elements
+Venn digram used to represent a set
+
+- Dictionaries:
+d = {"keys": value}
+dict has key and variables
+keys are immutable and unique
+values are mmutable and can be duplicated
+

@@ -1,0 +1,10 @@
+-A Syntactic error : is when python does not understand your code 
+for example : frint("")
+
+-A Semantic error is when your logic is wrong
+
+-Expression describe a type of operation that computers perform
+
+-Strings cannot be changed it's a immutable data structure
+
+
