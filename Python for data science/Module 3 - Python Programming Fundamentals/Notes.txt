@@ -1,0 +1,23 @@
+- Sorted() Vs Sort()
+Sorted : it's return a copy of the original list but sorted and not change the original list
+sort : it's sort the original list itself and return nothing
+
+- def func(*args)
+* means function allow one or argument to be passed
+When the number of arguments are unknown for a function, They can all be packed into a tuple as shown
+
+- def func(**args)
+Similarly, The arguments can also be packed into a dictionary
+
+- Functions can be incredibly powerful and versatile. They can accept (and return) data types, objects and even other functions as arguements.
+
+- if we defind a variable in the function by using the keywork GLOBAL the variable will be global to all program
+
+
+
+- def __init__ (self)
+__init__ is a Constructor Function
+self -> refer to the newly created instance
+
+- dir() 
+is useful for obtaining the list of data and method associated with a class
