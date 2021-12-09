@@ -1,0 +1,8 @@
+-Numpy Code is run much faster the reqular python code
+that's very useful if there's lots of data
+
+-Universal Function is a function the operats on ndarrays
+(ex : calc the Avg, mean,max valu, min valu and others function)
+
+A useful one is linespace()
+a linespace returns space evenly numbers over a specified integers
